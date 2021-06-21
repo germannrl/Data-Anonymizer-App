@@ -1,0 +1,18 @@
+Statistics|diag_p(Snomed)|odiag1(Snomed)
+Original mean|86234004 (Hypertensive heart AND renal disease (disorder))|194781004 (Hypertensive heart and renal disease with both (congestive) heart failure and renal failure (disorder))
+Masked mean|86234004 (Hypertensive heart AND renal disease (disorder))|86234004 (Hypertensive heart AND renal disease (disorder))
+Original variance|0,09489|0,07781
+Masked variance|0,08919|0,07227
+Original Standard Deviation|0,30805|0,27894
+Masked Standard Deviation|0,29864|0,26883
+MAE|0,15222|0,16154
+RMSE|0,16898|0,18612
+Distance between means|0,00000|0,03704
+
+Orig. Cov/Corr|diag_p(Snomed)|odiag1(Snomed)
+diag_p(Snomed)|0,10762/1,00000|0,03214/0,28061
+odiag1(Snomed)|0,03214/0,28061|0,12188/1,00000
+
+Masked Cov/Corr|diag_p(Snomed)|odiag1(Snomed)
+diag_p(Snomed)|0,10336/1,00000|0,02508/0,24508
+odiag1(Snomed)|0,02508/0,24508|0,10129/1,00000
